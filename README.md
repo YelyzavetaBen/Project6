@@ -1,4 +1,4 @@
-<h1><a href="https://github.com/YelyzavetaBen/Project4/blob/main/life%20expectancy.ipynb">Forecasting Air Passengers data with Prophet and ARIMA with Fourier features</a></h1>
+<h1><a href="https://github.com/YelyzavetaBen/Project6/blob/main/Prophet%20%26%20Fourier.ipynb">Forecasting Air Passengers data with Prophet and ARIMA with Fourier features</a></h1>
 <h2>Goal</h2>
 The goal of this project is to accurately and efficiently forecast air passenger traffic data by utilizing two powerful forecasting methods: Facebook's Prophet and ARIMA (Autoregressive Integrated Moving Average) with Fourier features. The project aims to compare and evaluate the performance of these two models, and provide insights into the trends and seasonality of the air passenger data. Additionally, the project will serve as a practical demonstration of how to apply these forecasting techniques to real-world data.
 
